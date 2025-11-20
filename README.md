@@ -42,7 +42,7 @@ git clone https://github.com/maltiwainy229/Elastique.git
 We welcome contributions and feedback!  
 - **Open an issue** to report bugs or request features.
 - **Submit a pull request** for improvements.
-- For direct contact, reach out via [GitHub profile](https://github.com/AABBAASS1) or email: [maltiwainy229@gmail.com]
+- For direct contact, reach out via [GitHub profile](https://github.com/AABBAASS1) or email: [saimajafri110786@gmail.com]
 
 Please see the [LICENSE](https://github.com/AABBAASS1//Elastique-App/blob/main/LICENSE) for terms of use.
 
