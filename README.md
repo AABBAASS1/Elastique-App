@@ -33,7 +33,7 @@ git clone https://github.com/maltiwainy229/Elastique.git
 
 ## Credits
 
-[Mohammad Altiwainy](linkedin.com/in/mohammad-altiwainy/), Ali Hamdani, Abaas Hamdani, Yazn Alfakih
+[Mohammad Altiwainy](linkedin.com/in/mohammad-altiwainy/), Ali Hamdani, [Abaas Hamdani](linkedin.com/in/Abaas-Hamdani/), Yazn Alfakih
 
 ---
 
@@ -42,8 +42,8 @@ git clone https://github.com/maltiwainy229/Elastique.git
 We welcome contributions and feedback!  
 - **Open an issue** to report bugs or request features.
 - **Submit a pull request** for improvements.
-- For direct contact, reach out via [GitHub profile](https://github.com/maltiwainy229) or email: [maltiwainy229@gmail.com]
+- For direct contact, reach out via [GitHub profile](https://github.com/AABBAASS1) or email: [maltiwainy229@gmail.com]
 
-Please see the [LICENSE](https://github.com/maltiwainy229/Elastique/blob/main/LICENSE) for terms of use.
+Please see the [LICENSE](https://github.com/AABBAASS1//Elastique-App/blob/main/LICENSE) for terms of use.
 
 ---
